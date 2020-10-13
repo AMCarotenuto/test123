@@ -1,0 +1,49 @@
+#header {
+	background-color: #2F4F4F;
+}
+h1 {
+	font-family: 'Alata';
+	color: white;
+}
+h2 {
+	font-family: 'Alata';
+	font-style: italic;
+}
+h3 {
+	font-family: 'Alata';
+	font-style: oblique;
+}
+body {
+	background-color: #E0FFFF;
+	text-align: center;
+}
+#foto {
+	border: 3px;
+	border-style: groove;
+	border-color: #2F4F4F;
+	margin: 5px 0px 5px;
+}
+p {
+	font-size: 14pt;
+	font-family: 'Inder';
+}
+ul {
+	font-family: 'Inder';
+	font-size: 14pt;
+	list-style-type: none;
+	padding: 0;
+}
+.box {
+  border:solid;
+  border-width:2px;
+  border-radius: 20px;
+  border-color: #2F4F4F;
+  padding: 0px 25px 10px 25px;
+  margin: 0px 2px 5px 2px;
+}
+#footer {
+	margin: 30px 0px 30px 0px;
+}
+#social {
+	margin: 10px 0px 10px 0px;
+}
